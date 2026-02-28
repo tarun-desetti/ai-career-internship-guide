@@ -4,6 +4,8 @@ An AI-powered internship recommendation system built using **Python and Streamli
 
 ---
 
+🌐 Live Demo: https://ai-career-internship-guide.onrender.com
+
 ## 📌 Overview
 
 AI Career Copilot helps students discover the most suitable internships based on:
